@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.7'
+# gem 'activerecord-postgresql-adapter'
+# gem 'pg', '0.14.0'
+gem 'postgres-pr', '0.6.3'
 
 group :development do
 	gem 'rspec-rails', '2.11.0'
