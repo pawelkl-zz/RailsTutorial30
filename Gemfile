@@ -10,7 +10,7 @@ group :development do
 end
 
 group :production do
-	gem 'pg', '0.10.0'
+	# gem 'pg', '0.10.0'
 	gem 'postgres-pr', '0.6.3'
 end
 
